@@ -18,13 +18,13 @@ p, li, h1 {
 }
 
 .fundo-vermelho {
-    background-color: red;
+    background-color: white;
     color: black;
 }
 
 .fundo-vermelho:hover {
     background-color: black;
-    color: red;
+    color: black;
 }
 
 html {
@@ -50,7 +50,7 @@ p, li {
 body {
     width: 600px;
     margin: 0 auto;
-    background-color: red;
+    background-color: beige;
     padding: 0 20px 20px 20px;
     border: 5px solid black;
 }
